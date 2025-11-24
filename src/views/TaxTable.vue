@@ -50,7 +50,7 @@ const options = {
     y: {
       title: {
         display: true,
-        text: '세액 (단위: 만 원 또는 금액)', // tax_table의 데이터 단위에 맞게 수정
+        text: '세액 (단위: 원)', // tax_table의 데이터 단위에 맞게 수정
       },
     },
     x: {
